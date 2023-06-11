@@ -28,7 +28,7 @@
 ```
 
 
-### The criteria for satisfaction score and setimant quality
+### The criteria for satisfaction score and setimant quality score
 
 #### Satisfaction score 
 

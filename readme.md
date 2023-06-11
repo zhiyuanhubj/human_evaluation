@@ -51,4 +51,4 @@ The semantic quality is determined by the fluency and coherence, ranging from 1 
 
 ### How to mark your score.
 
-All you need to do is fill in the blank values for 'satisfaction score' and 'semantic quality'. Subsequently, the researchers will calculate the overall performance of different models.
+All you need to do is filling in the blank values for 'satisfaction score' and 'semantic quality'. Subsequently, the researchers will calculate the overall performance of different models.

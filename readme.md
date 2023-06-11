@@ -4,7 +4,7 @@
 
 ### Data format
 
-'''
+```json
 [
 {
 	'dialogue history':'',   ## the input the model 
@@ -25,7 +25,7 @@
 	}
 }
 ]
-'''
+
 
 ### The criteria for satisfaction score and setimant quality
 

@@ -30,7 +30,9 @@
 
 ### The criteria for satisfaction score and setimant quality
 
-The satisfaction score range from 1-5, and you should mark a integer
+#### Satisfaction score 
+
+The tatisfaction score range from 1-5, and you should mark a integer
 
 - 1: Very dissatisfied (the system fails to understand and fulfill user’s request); 
 
@@ -42,6 +44,8 @@ The satisfaction score range from 1-5, and you should mark a integer
 extra turns before meeting the request);
 
 - 5: Very satisfied (the system understands and satisfies the user request completely and efficiently)
+
+#### Semantic Quality Score
 
 The semantic quality is determined by the fluency and coherence, ranging from 1 to 10. A score of 5 represents normal fluency and coherence.
 
